@@ -113,8 +113,4 @@ while True :
         print(hangman_stages[fail_attempt]) # Print the updated Hangman
    
     no_of_attempt += 1 
-
-
-
-
     
