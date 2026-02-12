@@ -37,7 +37,7 @@ Hangman is a classic word-guessing game where:
 
 1. Make sure Python is installed:
 2. Clone or download the repository:
-git clone https://github.com/your-username/hangman-python.git
+git clone https://github.com/sohambhambere50/hangman-python.git
 
 3. Navigate to the project folder:
 cd hangman-python
